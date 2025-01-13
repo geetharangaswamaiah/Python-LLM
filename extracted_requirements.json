@@ -1,0 +1,42 @@
+[
+    {
+        "Section number": 1,
+        "Original text": "Product Safety Regulation\nProducts should only be sold if their compliance with product safety regulations has been demonstrated appropriately.\nThe National Product Safety Regulations 2010 (NPSR) require all products to be safe in their normal or reasonable foreseeable usage and enforcement authorities have powers to take appropriate actions when this obligation isn't met.\nThere are also specific regulations for some product sectors, setting out essential safety requirements.",
+        "Summary": "Product Safety Regulation\nProducts should only be sold if their compliance with product safety regulations has been demonstrated appropriately. There are also specific regulations for some product sectors, setting out essential safety requirements.",
+        "Metadata": {
+            "Original text length": 480,
+            "Summary length": 248,
+            "Sentiment Analysis": "0.231 (+1 means Positive, -1 means Negative)"
+        }
+    },
+    {
+        "Section number": 2,
+        "Original text": "Demonstrating Compliance\nManufacturers and importers placing products on the market need to demonstrate that they comply with relevant safety requirements. This basically involves:\n- minimising risks associated with the product\n- providing information to consumers on how to use the product safely\n- generating and keeping records of associated technical documentation\n- placing appropriate labelling on the product",
+        "Summary": "Demonstrating Compliance\nManufacturers and importers placing products on the market need to demonstrate that they comply with relevant safety requirements.",
+        "Metadata": {
+            "Original text length": 415,
+            "Summary length": 155,
+            "Sentiment Analysis": "0.35 (+1 means Positive, -1 means Negative)"
+        }
+    },
+    {
+        "Section number": 3,
+        "Original text": "Corrective Action, Recalls and Safety Incidents\nBusinesses that make, import, distribute or sell consumer products are responsible for their safety.\nIf a product is found to be unsafe, the business must take appropriate corrective action, which may include issuing new instructions, modifying the product or requiring consumers to stop using the product and return it for a refund.",
+        "Summary": "Corrective Action, Recalls and Safety Incidents\nBusinesses that make, import, distribute or sell consumer products are responsible for their safety.",
+        "Metadata": {
+            "Original text length": 381,
+            "Summary length": 148,
+            "Sentiment Analysis": "0.207 (+1 means Positive, -1 means Negative)"
+        }
+    },
+    {
+        "Section number": 4,
+        "Original text": "Product Safety Liability and Insurance\nManufacturers, and sometimes others involved in a product's supply chain, are liable for their products under the Consumer Protection Act 2000.\nThis means that if product is unsafe and causes harm, the manufacturer may be required to pay compensation to the injured party.",
+        "Summary": "This means that if product is unsafe and causes harm, the manufacturer may be required to pay compensation to the injured party. Product Safety Liability and Insurance\nManufacturers, and sometimes others involved in a product's supply chain, are liable for their products under the Consumer Protection Act 2000.",
+        "Metadata": {
+            "Original text length": 311,
+            "Summary length": 311,
+            "Sentiment Analysis": "-0.1 (+1 means Positive, -1 means Negative)"
+        }
+    }
+]
